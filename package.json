@@ -1,0 +1,8 @@
+{
+  "name": "zaby-github-mcp",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "npx -y @modelcontextprotocol/server-github"
+  }
+}
